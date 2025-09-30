@@ -1,3 +1,46 @@
+# Friendly Dev – Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+Frontend for a Portfolio website 
+Built with React, **TanStack Router**, Vite, and TailwindCSS to provide a modern and responsive interface that connects to the backend API.
+
+---
+
+## 🚀 Features
+- Declarative routing with **TanStack Router**
+- Nested routes & protected route handling
+- Responsive UI built with TailwindCSS
+- API integration with backend (Strapi)
+- Developer-friendly structure for scaling
+
+---
+
+## 🛠️ Tech Stack
+- **React + TanStack Router**
+- **Vite** for fast bundling & dev server
+- **TailwindCSS** for styling
+- **Axios / Fetch API** for backend requests
+
+---
+
+## 📦 Installation
+```bash
+git clone https://github.com/dante-thinkitfirst/friendly-dev-frontend.git
+cd friendly-dev-frontend
+npm install
+npm run dev
+```
+
+
+
+
+
+------------------
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.

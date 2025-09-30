@@ -2,25 +2,25 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Frontend for a Portfolio website 
-Built with React, **TanStack Router**, Vite, and TailwindCSS to provide a modern and responsive interface that connects to the backend API.
+Frontend for a portfolio website
+Built with React, React Router, Vite, and TailwindCSS to provide a responsive and modern UI for interacting with the backend API.
 
 ---
 
 ## 🚀 Features
-- Declarative routing with **TanStack Router**
-- Nested routes & protected route handling
-- Responsive UI built with TailwindCSS
+- Authentication flow with React Router
+- Protected routes & navigation
+- Responsive UI with TailwindCSS
 - API integration with backend (Strapi)
 - Developer-friendly structure for scaling
 
 ---
 
 ## 🛠️ Tech Stack
-- **React + TanStack Router**
+- **React + React Router**
 - **Vite** for fast bundling & dev server
 - **TailwindCSS** for styling
 - **Axios / Fetch API** for backend requests
@@ -34,6 +34,7 @@ cd friendly-dev-frontend
 npm install
 npm run dev
 ```
+
 
 
 
